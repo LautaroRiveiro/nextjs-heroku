@@ -10,7 +10,7 @@ const PostLink = (props) => (
 
 const Index = (props) => (
     <Layout>
-        <h1>Hello Next.js</h1>
+        <h1>Departamentos</h1>
 
         <table className="table table-striped">
             <thead>
